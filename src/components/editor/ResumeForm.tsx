@@ -15,6 +15,7 @@ import {
   Sparkles,
   Trash2,
   Plus,
+  X,
 } from "lucide-react";
 import AIGenerator from "./AIGenerator";
 
